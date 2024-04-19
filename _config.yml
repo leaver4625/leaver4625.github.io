@@ -1,11 +1,11 @@
 # Site settings
-title: xianyu4625
-SEOTitle: 阿强 | xianyu4625 Blog
-header-img: img/fire.png
-email: xianyu4625@outlook.com
-description: "好好活着的高压锅"
+title: leaver
+SEOTitle: leaver | leaver Blog
+header-img: img/home-bg.jpg
+email: 3221535322@qq.com
+description: "春风拂槛露华浓"
 keyword: ""
-url: "http://xianyu4625.github.io"              # your host, for absolute URL
+url: "http://leaver.github.io"              # your host, for absolute URL
 # baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ url: "http://xianyu4625.github.io"              # your host, for absolute URL
 RSS: false
 weibo_username:     #
 zhihu_username:     shi-ran-46-87-80
-github_username:    xianyu4625
+github_username:    leaver
 twitter_username:   #
 facebook_username:  #
 
